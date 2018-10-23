@@ -1,4 +1,4 @@
-def startPipeline {
+def startPipeline(args) {
   echo "Hi Tester"
 }
 return this;
